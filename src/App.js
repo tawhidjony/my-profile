@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         MD TAWHIDUR RAHMAN
         </a>
       </header>
     </div>
